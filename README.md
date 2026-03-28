@@ -1,2 +1,1 @@
-### practising git commands
-## commit new things
+## practising git commands
